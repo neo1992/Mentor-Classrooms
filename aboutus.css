@@ -1,0 +1,16 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+
+header, nav, article, section, aside, footer{
+	display:block;
+}
+
+.container{
+	width:1100px;
+	margin: 0px auto;
+	border: 2px solid black;
+	
+}
