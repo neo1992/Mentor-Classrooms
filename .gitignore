@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8"/>
+	<title>Mentor Classrooms</title>
+	<link rel="stylesheet" href="main.css"/>
+	<style type="text/css">
+		a:link{color:white;
+		text-decoration:none;}
+		a:visited{color:white;}
+		a:hover{color:white;
+		text-decoration:underline;
+		}
+	</style>
+	
+</head>
+	<body>
+		
+	<div id="big_wrapper">
+		<div id="header_section">
+		<header id="top_header">
+			<h1>Welcome to Mentor Classroms</h1>
+		</header>
+		
+		<nav id="top_menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="aboutus.html">About Us</a></li>
+				<li><a href="contactus.html">Contact Us</a></li>
+				<li><a href="coursesoffered.html">Courses Offered</a></li>
+				<li><a href="facultymembers.html">Faculty Members</a></li>
+				
+			</ul>
+		</nav>
+		</div>
+		
+		<section id="main_section">
+			<article>
+				<header>
+					<hgroup>
+						<h2>WORDS FROM OUR TEAM</h2>
+			
+					</hgroup>
+				</header>
+					<p>Its a great honour and a privilege to greet you to the website of Mentor Classroms. We cordially welcome you to proper
+					guidance and excellent educational facilities at Mentor Classroms. Aiming at providing you the best of teaching facilities we 
+					look forward to your bright educational career.</p>
+					
+				<video id="video"src="C:\Users\sagni\Videos\Important\Mentor Classrooms\Important\HTML5/XiaoYing.mp4" width="700" controls></video>
+			</article>
+			
+			<article>
+				<header>
+					<hgroup>
+					<h2>For Banking Aspirants.....</h2>
+					</hgroup>
+				</header>
+				<p>Since State Bank of India has changed their syllabus in the marketing section and instead introduced Economics, it is a request to all of You to please suggest us a few topics on which you want detailed and lucid explanations. All your Questions, Queries and Doubts will be entertained at all times. Mail us your requests at
+				<a style="color:blue" href="mailto:mentorclassrooms@gmail.com">mentorclassrooms@gmail.com</a>.
+				Please note, that without your help it will not be an easy task for Us to cover everything in such a short span of time. It is our attempt to cover the areas of your concern at your convenience.</p>
+				<footer>-Mentor Classrooms..</footer>
+			</article>
+		</section>
+		<aside id="side_news">
+			<h4 id="news">News:</h4>
+			<ul id="fifth">
+			<li>Heartiest Congratulations to all the successful candidates of ICSE exams 2016!!!...</li>
+			<li>Soon we will be going live on pedagoge.com</li>
+			<li>Mentor Classroms is now listed under <a href="http://www.justdial.com/Kolkata/Mentor-Classrooms-%3Cnear%3E-Laketown/033PXX33-XX33-160413172847-K6G7_BZDET">justdial.com</a> </li>
+			<li>If you know any physically challenged person who have completed graduation and they looking for jobs please inform that Cognizant is conducting interviews for them with a take home salary around 18k per month. So do send their resume to:
+                 <a href="mailto:ankilla.saikiran@cognizant.com">ankilla.saikiran@cognizant.com</a></li>
+			<li>We shall be posting a video lecture on Syllogism soon enough. Since SBI clerical exams are knocking on the door We will be delivering a detailed explanation on the topic. </li>
+			<li>We are happy to let you know that we have added learning of music(Keyboard) in our course.</li>
+			</ul>
+		</aside>
+			
+		<footer id="the_footer">
+			&copy;Mentor Classroms
+		</footer>		
+		
+	</div>
+	
+	</body>
+</html>
